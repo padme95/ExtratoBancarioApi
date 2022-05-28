@@ -39,5 +39,4 @@ public class MovimentacaoController {
 		service.save(movimentacao);
 	}
 	
-	
 }
